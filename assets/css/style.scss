@@ -171,7 +171,7 @@ img{
 	cursor: pointer;
 }
 
-/*Active menu*/
+/*Active Menu*/
 .active::after{
 	position: absolute;
 	content: "";
@@ -182,7 +182,7 @@ img{
 	background-color: var(--first-color);
 }
 
-/*=== Show menu ===*/
+/*=== Show Menu ===*/
 .show{
 	right: 0;
 }
