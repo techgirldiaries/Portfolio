@@ -306,7 +306,6 @@ img{
 .skills__py{
 	width: 70%;
 }
-
 .skills__psd{
 	width: 85%;
 }
@@ -391,26 +390,26 @@ body{
 }
 .section {
 	padding-top: 4rem;
-    padding-bottom: 3rem;
+	padding-bottom: 3rem;
 }
 .section-title{
-    margin-bottom: var(--mb-6);
+    	margin-bottom: var(--mb-6);
 }
 .section-title::after{
-    width: 80px;
-    top: 3rem;
+	width: 80px;
+	top: 3rem;
 }
 
 .nav{
-	    height: calc(var(--header-height) + 1rem);
+	height: calc(var(--header-height) + 1rem);
 }
 .nav__list{
-    display: flex;
-    padding-top: 0;
+    	display: flex;
+    	padding-top: 0;
 }
 .nav__item{
-    margin-left: var(--mb-6);
-    margin-bottom: 0;
+    	margin-left: var(--mb-6);
+    	margin-bottom: 0;
 }
 .nav__toggle{
 	display: none;
